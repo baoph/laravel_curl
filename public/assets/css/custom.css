@@ -1,0 +1,112 @@
+.unpublish {
+    background: rgba(0, 0, 0, 0) url("../images/unpublish.png") no-repeat scroll 0 0;
+    border: 0 none;
+}
+.publish {
+    background: rgba(0, 0, 0, 0) url("../images/publish.png") no-repeat scroll 0 0;
+    border: 0 none;
+}
+.btgrid {
+    cursor: pointer;
+    display: inline-block;
+    height: 16px;
+    margin: 1px;
+    width: 16px;
+}
+
+.d-block {
+	float: left;
+	display: block
+}
+.d-content {
+	margin: 0!important;
+	height: auto;
+    float: left;
+    width: 100%;
+}
+
+.d-content .form {
+	padding: 10px;
+}
+
+.d-block-left {
+	padding: 10px
+}
+button {
+	margin: 0 3px;
+	float: left;
+}
+
+.tabs-heading a{
+	margin: 0!important;
+	top: 0!important;
+	padding: 0!important;
+}
+.tabs-heading img {
+	width: 34px!important;
+    height: 30px!important;
+    padding: 5px 10px!important;
+}
+.block-right-control-button{
+	margin-top: 5px;
+}
+/*#ddlInCate,*/
+.ddlFilter{
+	float: left;
+	margin-left: 5px;
+}
+.content-form-field {
+	background: #fff;
+    float: left;
+    width: 100%;
+}
+.content-full-col {
+	padding: 10px;
+}
+.tabs{
+    float: left;
+    width: 100%;
+}
+
+.form-field .error{
+	background: none!important;
+}
+.form-field label.error{
+	border: none;
+}
+
+.content-wrapper .content.full {
+	margin:0!important;
+}
+
+.tabs .ui-tabs-nav {
+	padding: 0!important
+}
+
+.gallery_list li{
+	width: 100%;
+	border: 1px solid #ccc;
+	float: left;
+	margin: 3px;
+    cursor: move;
+    position:relative;
+}
+.gallery_list li .image {
+	float: left
+}
+.gallery_list li .config {
+	margin-top: 10px;
+	float: left
+}
+.gallery_list li .remove {
+	position: absolute;
+	right:10px;
+	top:10px;
+}
+
+.featured_photo img{
+	max-width: 100%
+}
+td img {
+	max-width: 100px
+}
